@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Valentines.git/static/css/main.f30d7c00.css",
+    "main.js": "/Valentines.git/static/js/main.1d6f487b.js",
+    "static/js/453.5b6472b8.chunk.js": "/Valentines.git/static/js/453.5b6472b8.chunk.js",
+    "static/media/IMG_6507.jpeg": "/Valentines.git/static/media/IMG_6507.13d25cdad2e6bb84058e.jpeg",
+    "index.html": "/Valentines.git/index.html",
+    "main.f30d7c00.css.map": "/Valentines.git/static/css/main.f30d7c00.css.map",
+    "main.1d6f487b.js.map": "/Valentines.git/static/js/main.1d6f487b.js.map",
+    "453.5b6472b8.chunk.js.map": "/Valentines.git/static/js/453.5b6472b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30d7c00.css",
+    "static/js/main.1d6f487b.js"
+  ]
+}
